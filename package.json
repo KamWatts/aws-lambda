@@ -1,0 +1,16 @@
+{
+  "name": "lab17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.321.1",
+    "jest": "^29.5.0"
+  }
+}
